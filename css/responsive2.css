@@ -1,0 +1,595 @@
+/* MAX-WIDTHS */
+@media (max-width:1400px) {
+  #hero-banner .banner-content .left-container {
+      width: 505px;
+      margin-right: 20px;
+  }
+  #hero-banner .banner-content .left-container .thumb {
+      width: 243px;
+  }
+  .allcontents .left-content {
+      width: 302px;
+      margin-right: 20px;
+  }
+  .allcontents .middle-content {
+      margin-right: 30px;
+  }
+}
+@media (max-width:1199px) {
+  #main-nav ul.navbar.navbar-nav li {
+      padding: 0 11px;
+  }
+  #hero-banner .top-icons .icons {
+      width: 200px;
+      margin-right: 55px;
+  }
+  #hero-banner .top-icons .text-container {
+      width: 200px;
+  }
+  #hero-banner .top-icons .text-container h4 {
+      margin-top: 10px;
+      /* width: 100%; */
+  }
+  #hero-banner .banner-content .left-container {
+      width: 100%;
+  }
+  #hero-banner .banner-content .left-container .thumb:nth-child(2n) {
+      margin-right: 9px;
+  }
+  #hero-banner .banner-content .left-container .thumb:last-child {
+    margin-right: 0;
+  }
+  #hero-banner .banner-content .left-container .thumb {
+      width: 225.5px;
+  }
+  #hero-banner .banner-content .right-container {
+      width: 100%;
+  }
+  #hero-banner .banner-content .right-container .passage-content p {
+      width: 90%;
+  }
+  #hero-banner .passage-content a {
+      width: 90%;
+  }
+  #hero-banner .banner-content .right-container .tab-container {
+      float: none;
+      width: 66%;
+      margin: 0 auto;
+      margin-top: 20px;
+  }
+  .allcontents {
+      height: 100%;
+      padding: 0 0 20px;
+  }
+  .allcontents .left-content  {
+      width: 100%;
+      margin-bottom: 30px;
+  }
+  .allcontents .left-content .top-content {
+      margin-right: 40px;
+  }
+  .allcontents .left-content .bottom-content {
+      margin-top: 0;
+      width: 64%;
+      padding-top: 6px;
+      margin-right: 0;
+  }
+  .allcontents .left-content .bottom-content li {
+      width: 50%;
+      float: left;
+  }
+  .allcontents .middle-content {
+      width: 65%;
+      margin-right: 30px;
+  }
+  .allcontents .middle-content .top-content .thumb {
+      width: 31.8%;
+  }
+  .allcontents .last-content h4 {
+      margin-bottom: 10px;
+      margin-top: 0;
+  }
+  .allcontents .last-content .card {
+      height: 80px;
+  }
+  #footer-top ul li:nth-child(7n) {
+      margin-right: 10px;
+  }
+  #footer-top ul li {
+      width: 13%;
+  }
+  #main-content .left-content {
+      width: 660px;
+      margin-right: 20px;
+  }
+  .allcards .img-container {
+      width: 170px;
+  }
+  .allcards .text-container {
+      width: 486px;
+  }
+}
+
+@media (max-width:991px) {
+  #main-nav ul.navbar.navbar-nav li {
+      padding: 0 6px;
+      font-size: 12px;
+  }
+  #hero-banner .top-icons .icons {
+      width: 187px;
+      margin-right: 0;
+  }
+  #hero-banner .banner-content .left-container .thumb {
+      width: 170.5px;
+      height: 150px;
+  }
+  #hero-banner .banner-content .left-container .thumb span {
+      height: 37px;
+      line-height: 37px;
+  }
+  #hero-banner .banner-content .left-container .thumb:hover span {
+      line-height: 150px;
+  }
+  #hero-banner .banner-content .right-container .tab-container {
+      width: 87%;
+  }
+  .allcontents .left-content .bottom-content {
+      float: right;
+      width: 50%;
+  }
+  .allcontents .middle-content {
+      width: 55%;
+      margin-right: 20px;
+  }
+  .allcontents .middle-content .top-content .thumb {
+      width: 31%;
+  }
+  #footer-top ul li {
+      width: 12%;
+  }
+  .sxlist #brand-logo ul {
+      margin-left: 17px;
+      /* height: 40px; */
+  }
+  .sxlist #brand-logo ul li {
+      height: 40px;
+      line-height: 40px;
+  }
+  .sxlist #brand-logo ul li a{
+      height: 40px;
+  }
+  .sxlist #brand-logo .brand-container:after {
+      height: 82px;
+  }
+  #main-content .left-content {
+      width: 440px;
+  }
+  .allcards .img-container {
+      width: 100%;
+  }
+  .allcards .bottom-content,
+  .allcards .top-content {
+      height: 100%;
+  }
+  .allcards .text-container {
+      width: 100%;
+      padding: 10px 24px 20px;
+  }
+}
+
+@media (max-width:767px) {
+  section {
+    margin: 0 15px!important;
+  }
+  #main-nav {
+      height: 50px;
+  }
+  #main-nav .row {
+      margin: 0;
+  }
+  #main-nav button.hamburger {
+      padding: 0px;
+      width: 35px;
+      margin: 12px 10px 9px 10px;
+      background-color: transparent;
+  }
+  #main-nav button.hamburger:hover {
+      background-color: transparent;
+  }
+  #main-nav button.hamburger .hamburger-box {
+      width: 100%;
+  }
+  #main-nav .hamburger-inner, #main-nav .hamburger-inner:after, #main-nav .hamburger-inner:before {
+      width: 100%;
+      background-color: #fff;
+  }
+  #main-nav .navbar-collapse {
+      background-color: #ef634d;
+      border: 0;
+      overflow: hidden;
+      float: left;
+      width: 100%;
+  }
+  #main-nav ul.navbar.navbar-nav.menu {
+      margin: 0 -15px;
+  }
+  #main-nav ul.navbar.navbar-nav a.nav-link {
+      display: block;
+      width: 100%;
+      font-size: 19px;
+      text-align: center;
+      line-height: 50px;
+  }
+  #main-nav ul.navbar.navbar-nav li {
+      min-height: 50px;
+  }
+  #main-nav .navbar-default {
+      height: 50px;
+  }
+  #main-nav .navbar-default .navbar-header {
+      height: 50px;
+      width: 100%;
+      float: left;
+  }
+  #main-nav {
+    margin-top: 10px!important;
+  }
+  #hero-banner .top-icons .icons {
+      width: 50%;
+      margin-bottom: 10px;
+  }
+  #hero-banner .top-icons .img-container {
+      width: 20%;
+      height: auto;
+      margin-right: 5%;
+  }
+  #hero-banner .top-icons .text-container {
+      width: 70%;
+  }
+  #hero-banner .top-icons .text-container ul {
+      width: 100%;
+  }
+  #hero-banner .top-icons .text-container ul li {
+      margin-right: 30%;
+  }
+  #hero-banner .top-icons {
+      padding: 0 20px;
+      margin-top: 20px;
+  }
+  #hero-banner .top-icons .text-container h4 {
+      margin-top: 0;
+  }
+  #hero-banner .banner-content .left-container .thumb {
+      width: 23%;
+      height: auto;
+      margin-right: 2%!important;
+  }
+  #hero-banner .banner-content .left-container .thumb:last-child {
+      margin-right: 0!important;
+  }
+  #hero-banner .banner-content .left-container .thumb:hover span {
+      line-height: 160px;
+  }
+  #hero-banner .banner-content .right-container .nav-tabs {
+      top: 0;
+      width: 100%;
+  }
+  #hero-banner .banner-content .right-container .nav-tabs li {
+      float: left;
+      margin-bottom: 0;
+      border-right: 1px solid #747474;
+  }
+  #hero-banner .banner-content .right-container .nav-tabs li.active {
+      border: 0;
+  }
+  #hero-banner .banner-content .right-container .nav-tabs li.active a:after {
+      transform: rotate(90deg);
+      bottom: -10px!important;
+      top: auto;
+      right: auto;
+      left: 45%;
+  }
+  #hero-banner .banner-content .right-container .tab-content {
+      width: 100%;
+      height: 100%;
+  }
+  #hero-banner .banner-content .right-container .tab-container {
+      width: 90%;
+  }
+  #hero-banner .banner-content .right-container .tab-content .thumb {
+      width: 28%;
+  }
+  #hero-banner .banner-content .right-container .tab-content .thumb span:before {
+      left: -100%;
+  }
+  #hero-banner .banner-content .right-container .nav-tabs li {
+      width: 30%;
+  }
+  .allcontents {
+      height: 100%;
+      padding: 0 20px 20px;
+  }
+  .allcontents .left-content .top-content {
+      width: 45%;
+      margin-right: 3%;
+  }
+  .allcontents .left-content .top-content .img-container {
+      width: 33%;
+      height: 70px;
+  }
+  .allcontents .left-content .top-content .text-container {
+      width: 62%;
+      margin-left: 0;
+  }
+  .allcontents .middle-content {
+      width: 100%;
+      margin-bottom: 30px;
+      height: auto;
+  }
+  .allcontents .middle-content .top-content .thumb:last-child {
+      float: left;
+  }
+  .allcontents .left-content {
+      margin-bottom: 20px;
+  }
+  .allcontents .last-content {
+      width: 100%;
+      height: auto;
+  }
+  .allcontents .last-content .card {
+      width: 100%;
+      margin-bottom: 20px;
+  }
+  .allcontents .last-content .card-last {
+      float: left;
+      width: 100%;
+  }
+  .allcontents .last-content .card-last .img-container {
+      width: 33%;
+      height: 80px;
+      margin-right: 3%;
+  }
+  .allcontents .last-content .card-last .text-container {
+      float: left;
+      width: 64%;
+  }
+  .allcontents ul.top-list li {
+      width: 24%;
+      margin-right: 0;
+  }
+  #footer-top {
+      padding: 20px;
+  }
+  #footer-bottom {
+      height: auto;
+      padding: 15px 0;
+  }
+  #footer-bottom p {
+      transform: scale(0.9);
+  }
+  #brand-logo {
+      margin: 10px 15px!important;
+  }
+  .sxlist #brand-logo .brand-container {
+      width: 36%;
+      padding-right: 17px;
+  }
+  .sxlist #brand-logo .brand-container img {
+      height: auto;
+      width: 100%;
+  }
+  .sxlist #brand-logo .brand-container:after {
+      height: 58px;
+      top: 0;
+  }
+  .sxlist #brand-logo h3 {
+      margin: 3px 20px;
+      /* width: 60%; */
+  }
+  .sxlist #brand-logo ul {
+      margin-left: 20px;
+      /* height: 30px; */
+  }
+  .sxlist #brand-logo ul li {
+      height: 33px;
+      line-height: 33px;
+  }
+  .sxlist #brand-logo ul li a{
+      height: 33 px;
+  }
+  #main-content .left-content {
+      width: 100%;
+  }
+  .allcards .img-container {
+      width: 30%;
+  }
+  .allcards .text-container {
+      width: 70%;
+      padding: 20px 24px 20px;
+  }
+  #main-content .right-content {
+      width: 100%;
+      float: left;
+      padding: 0 10px;
+  }
+  #main-content .right-content ul li {
+      width: 33%;
+  }
+}
+
+@media (max-width:600px) {
+  #hero-banner .banner-content .left-container .thumb:hover span {
+      line-height: 120px;
+  }
+  .allcontents .left-content .top-content {
+      width: 100%;
+  }
+  .allcontents .left-content .bottom-content {
+      float: left;
+      width: 100%;
+      margin-top: 20px;
+  }
+  .allcontents .middle-content .top-content .thumb {
+      width: 30%;
+  }
+  .sxlist #brand-logo .brand-container {
+      height: 45px;
+      width: 100%;
+  }
+  .sxlist #brand-logo .brand-container img {
+      height: 100%;
+      width: auto;
+  }
+  .sxlist #brand-logo .brand-container:after {
+      content: none;
+  }
+  .sxlist #brand-logo h3 {
+      width: 102px;
+      margin: 10px 10px 10px;
+  }
+  .sxlist #brand-logo ul {
+      margin: 10px 0;
+      /* height: 26px; */
+  }
+  .sxlist #brand-logo ul li {
+      height: 26px;
+      line-height: 26px;
+      margin-right: 12px;
+  }
+  .sxlist #brand-logo ul li a{
+      height: 26px;
+  }
+  #main-content .right-content ul li {
+      width: 50%;
+  }
+}
+
+@media (max-width:425px) {
+  section {
+    margin: 0 10px!important;
+  }
+  #brand-logo .brand-container {
+      width: 210px;
+  }
+  #brand-logo .brand-container img {
+      width: 100%;
+  }
+  #hero-banner .top-icons .icons {
+      width: 100%;
+  }
+  #hero-banner .top-icons {
+      padding: 0 30px;
+      margin-top: 50px;
+  }
+  #hero-banner .banner-content .left-container .thumb {
+      width: 48%;
+      height: 135px;
+  }
+  #hero-banner .banner-content .left-container .thumb:hover span {
+      line-height: 140px;
+  }
+  #hero-banner .top-icons .text-container ul li {
+      margin-right: 20%;
+  }
+  #hero-banner .top-icons .text-container h4 {
+      margin-bottom: 5px;
+  }
+  #hero-banner .tab-content .tab-pane ul li {
+      width: 100%;
+  }
+  #hero-banner .banner-content .right-container .tab-content .thumb {
+      width: 100%;
+      margin-bottom: 10px;
+      z-index: 0;
+  }
+  #hero-banner .banner-content .right-container .passage-content p {
+      width: 100%;
+  }
+  #hero-banner .passage-content a {
+      width: 100%;
+  }
+  #hero-banner .banner-content .right-container .tab-container {
+      width: 100%;
+  }
+  .allcontents {
+      padding: 0 10px 20px;
+  }
+  .allcontents .left-content .bottom-content li {
+      width: 100%;
+  }
+  .allcontents .middle-content .top-content .thumb {
+      width: 100%;
+      margin-bottom: 20px;
+  }
+  .allcontents .middle-content .bottom-content li {
+      width: 100%;
+  }
+  #footer-top ul li {
+      width: 30%;
+  }
+  .sxlist #brand-logo ul {
+      margin: 0;
+      width: 100%;
+  }
+  .sxlist #brand-logo ul li {
+      width: 20.6%;
+  }
+  #main-nav ul.navbar.navbar-nav li {
+      min-height: 40px;
+  }
+  #main-nav ul.navbar.navbar-nav a.nav-link {
+      font-size: 16px;
+      line-height: 40px;
+  }
+  .allcards .img-container {
+      width: 100%;
+  }
+  .allcards .text-container {
+      width: 100%;
+      height: auto;
+      padding: 10px 10px 20px;
+  }
+  .allcards .text-container ul li {
+      width: 100%;
+  }
+  #main-content .right-content ul li {
+      width: 100%;
+  }
+  #location #breadcrumb, #location #breadcrumb nav, .breadcrumb {
+      height: auto;
+  }
+}
+
+@media (max-width:375px) {
+  #hero-banner .banner-content .left-container .thumb {
+    width: 100%;
+  }
+  #hero-banner .banner-content {
+    padding: 10px;
+  }
+  .allcontents ul.top-list li {
+      width: 32%;
+  }
+  #footer-top ul li {
+      width: 30%;
+  }
+}
+
+@media (max-width:320px) {
+  #footer-top ul li {
+      width: 29%;
+  }
+}
+
+/* MIN-WIDTHS */
+@media (min-width: 1401px){
+  .container {
+      width: 1200px;
+  }
+}
+
+@media (min-width:768px) {
+  .hamburger {
+      display: none;
+  }
+}
